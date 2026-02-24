@@ -1,0 +1,5 @@
+source("scripts/auth.R")
+source("scripts/fetch_data.R")
+source("scripts/process_data.R")
+source("scripts/visualize.R")
+source("scripts/sentiment_analysis.R")
